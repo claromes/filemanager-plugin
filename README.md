@@ -1,3 +1,6 @@
+> [!NOTE]
+> This version is different from the official version. Read more in [this post on my blog](https://claromes.com/blog/customizing-my-micro-editor).
+
 # Filemanager Plugin
 
 A simple plugin that allows for easy navigation of a file tree.
@@ -5,8 +8,6 @@ A simple plugin that allows for easy navigation of a file tree.
 This version contains codes from the [updated version](https://github.com/micro-editor/updated-plugins/blob/master/filemanager-plugin/) and the [jakkunight](https://github.com/jakkunight/filemanager-plugin) fork.
 
 ![Example picture](./example.jpg?raw=true "Example")
-
-**Installation:** run `plugin install filemanager` and restart Micro.
 
 ## Basics
 
